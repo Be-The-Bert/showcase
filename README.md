@@ -1097,7 +1097,7 @@ In this step we are going to build our `Palindrome` component.
 * Remove the `<p>` element from the `return` of the `render` method.
 * Add the component outline to the `return` of the `render` method.
 * Add the following `className` props to the outline:
-  * `div` - className="puzzleBox filterStringPB"
+  * `div` - className="puzzleBox palindromePB"
   * `input` - className="inputLine"
   * `button` - className="confirmationButton"
   * `span` - className="resultsBox"
